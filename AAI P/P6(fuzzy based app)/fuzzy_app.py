@@ -1,5 +1,5 @@
 import numpy as np
-import skfuzzy as fuzz
+import skfuzzy as fuzz (use" pip install -U scikit-fuzzy")
 import matplotlib.pyplot as plt
 from skfuzzy import control as ctrl
 from mpl_toolkits.mplot3d import Axes3D
